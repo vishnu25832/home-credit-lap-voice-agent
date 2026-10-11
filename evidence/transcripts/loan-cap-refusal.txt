@@ -1,0 +1,11 @@
+agent: Hello, I'm Asha calling from Home Credit. Is this a convenient time to talk?
+user: Yes, it is a phenomenal time. 
+agent: We're reaching out because you may be eligible for a Loan Against Property offer of up to ₹75 lakh. I'd like to ask a few questions to check whether you meet the preliminary eligibility criteria. Would you be comfortable continuing?
+user: Yes, I am comfortable to continuing. 
+agent: Do you already have a loan against this property, or 
+       are you looking for a new loan?
+user: No, I don't have a loan against my property. And I need a full 90 lakh.
+agent: The maximum amount available under this offer is ₹75 lakh. Would you like to proceed with ₹75 lakh?
+user: No, I need full 90 lakh. I don't want to proceed with 75 lakh. 
+agent: Thank you for sharing that information. Unfortunately, you do not meet the eligibility criteria for this specific offer at this time. Thank you for your 
+agent: time.
